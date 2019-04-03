@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/demo20190402_mybatis_threadlocal" />
+  </component>
+  <component name="JavaScriptSettings">
+    <option name="languageLevel" value="ES6" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/demo201904012spring_ioc/pom.xml" />
+        <option value="$PROJECT_DIR$/demo20190401_IoC/pom.xml" />
+        <option value="$PROJECT_DIR$/demo201941spring_ioc_xml/pom.xml" />
+        <option value="$PROJECT_DIR$/demo20190402_ioc_xml_annotation/pom.xml" />
+        <option value="$PROJECT_DIR$/demo20190402_mybatis_threadlocal/pom.xml" />
+        <option value="$PROJECT_DIR$/demo20190402_spring_ioc_mybatis/pom.xml" />
+      </list>
+    </option>
+  </component>
+</project>

@@ -15,6 +15,9 @@
         <option value="$PROJECT_DIR$/demo20190402_ioc_xml_annotation/pom.xml" />
         <option value="$PROJECT_DIR$/demo20190402_mybatis_threadlocal/pom.xml" />
         <option value="$PROJECT_DIR$/demo20190402_spring_ioc_mybatis/pom.xml" />
+        <option value="$PROJECT_DIR$/demo20190403_spring_ioc_mybatis_auto/pom.xml" />
+        <option value="$PROJECT_DIR$/demo20190403_proxy_static_dynamic/pom.xml" />
+        <option value="$PROJECT_DIR$/spring_ioc_aop/pom.xml" />
       </list>
     </option>
   </component>

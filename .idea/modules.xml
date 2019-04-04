@@ -9,6 +9,9 @@
       <module fileurl="file://$PROJECT_DIR$/demo20190402_ioc_xml_annotation/demo20190402_ioc_xml_annotation.iml" filepath="$PROJECT_DIR$/demo20190402_ioc_xml_annotation/demo20190402_ioc_xml_annotation.iml" />
       <module fileurl="file://$PROJECT_DIR$/demo20190402_mybatis_threadlocal/demo20190402_mybatis_threadlocal.iml" filepath="$PROJECT_DIR$/demo20190402_mybatis_threadlocal/demo20190402_mybatis_threadlocal.iml" />
       <module fileurl="file://$PROJECT_DIR$/demo20190402_spring_ioc_mybatis/demo20190402_spring_ioc_mybatis.iml" filepath="$PROJECT_DIR$/demo20190402_spring_ioc_mybatis/demo20190402_spring_ioc_mybatis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo20190403_proxy_static_dynamic/demo20190403_proxy_static_dynamic.iml" filepath="$PROJECT_DIR$/demo20190403_proxy_static_dynamic/demo20190403_proxy_static_dynamic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo20190403_spring_ioc_mybatis_auto/demo20190403_spring_ioc_mybatis_auto.iml" filepath="$PROJECT_DIR$/demo20190403_spring_ioc_mybatis_auto/demo20190403_spring_ioc_mybatis_auto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring_ioc_aop/spring_ioc_aop.iml" filepath="$PROJECT_DIR$/spring_ioc_aop/spring_ioc_aop.iml" />
     </modules>
   </component>
 </project>
